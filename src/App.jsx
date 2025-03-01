@@ -99,7 +99,7 @@ const App = () => {
 
       
         <Link to='/create' className="fixed bottom-5 right-5">
-          <FontAwesomeIcon icon = {faSquarePlus} className="text-6xl"/>
+          <FontAwesomeIcon icon = {faSquarePlus} className="text-7xl"/>
         </Link>
          
       <button onClick={() => {
